@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <ApiVersion>6</ApiVersion>
+  <AutoUpgraded>true</AutoUpgraded>
+  <Id>com.protman.RandomNotes</Id>
+  <Version>1.1100000000000001</Version>
+  <Author>protman [protman@gmail.com]</Author>
+  <Name>RandomNotes</Name>
+  <Category>Pattern Editor</Category>
+  <Description>Randomizes or shuffles notes in various tonal modes and ranges, in order to create new random variations of existing sequences. Shows up as 'Randomize Notes...' in the Pattern Editors context menu and also creates some shortcuts (look for 'randomize') in the Pattern Editor. 20210628 added ability to set the enabled notes based on current selection: set_notes_from_sel. Thanks to Dac Chartrand [dac@renoise.com] for the original Randomize Notes tool</Description>
+</RenoiseScriptingTool>
