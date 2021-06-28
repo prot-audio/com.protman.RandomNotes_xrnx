@@ -150,6 +150,7 @@ function selection_scope() -- creates a table indexing all selected note columns
    notes_in_selection(track, selection_scope[track])
    end
   end
+  current_dialog = nil
   show_randomize_gui()
  end
 
